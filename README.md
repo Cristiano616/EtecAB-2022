@@ -1,2 +1,2 @@
 # EtecAB-2022
-exercicio saida de console-EtecAB
+exercicio saida em console-EtecAB
